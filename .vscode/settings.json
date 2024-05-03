@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "math.h": "c",
+        "signal.h": "c",
+        "random": "c",
+        "algorithm": "c"
+    }
+}
